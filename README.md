@@ -1,2 +1,3 @@
 # michaeldenes.github.io
-Personal webpage.
+
+This repository is for my personal webpage, based on `zensical`.
