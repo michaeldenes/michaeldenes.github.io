@@ -22,7 +22,7 @@ icon: lucide/book-open-text
 
 - **NIOZ Colloquia**, Texel, the Netherlands, *Transport, mixing, and plastic entrainment by coherent ocean structures*, **January 2026**
 
-- **Parcels 10 year anniversary workshop**, Utrecht, the Netherlands, ``Make-your-own kernels'', (focussed on modelling techniques, parameter choices and implications for numerical simulations), **October 2025** \[[code](https://github.com/Parcels-code/10year-anniversary-session2)\]
+- **Parcels 10 year anniversary workshop**, Utrecht, the Netherlands, *Make-your-own kernels*, (focussed on modelling techniques, parameter choices and implications for numerical simulations), **October 2025** \[[code](https://github.com/Parcels-code/10year-anniversary-session2)\]
 
 
 - **4DMED-Sea Workshop, ESA**, (External expert), European Space Agency Centre for Earth Observation, Frascati, Italy, *Using Parcels to develop and test beaching parameterisations*, **October 2024**
