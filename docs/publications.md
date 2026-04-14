@@ -43,7 +43,7 @@ icon: lucide/book-open-text
 
 ## Conferences and Workshops (Selected)
 
-- **Ocean Sciences Meeting 2026**, Glasgow, Scotland, (eLightning Presentation), *The Lofoten Basin Eddy as a Plastic Sink: A Three-Dimensional Study of Microplastic Dispersion Dynamics*, **February 2026**
+- **Ocean Sciences Meeting 2026**, (eLightning Presentation), Glasgow, Scotland, *The Lofoten Basin Eddy as a Plastic Sink: A Three-Dimensional Study of Microplastic Dispersion Dynamics*, **February 2026**
 
 - **Euromech Colloquium 639 - Microplastic Dispersion Pathways**, (Speaker), Lerici, Italy, *PlasticParcels - a ready-to-use tool for plastic dispersion simulations and parameterization development*, **May 2024**
 
@@ -71,3 +71,10 @@ icon: lucide/book-open-text
 
 
 - **Frontiers of Fluid Dynamics workshop**, (Poster), Bureau of Meteorology, Sydney, New South Wales, Australia, *Identification of Lagrangian coherent structures from swarms of virtual drifters using finite element methods*, **December 2018**
+
+## Science Outreach (Selected)
+
+- **Mathematics Outreach in Regional NSW**. As a faculty of science student ambassador, I presented 19 workshops at Wellington Public School, Dubbo College Delroy Campus, and Coonabarabran High School, to over 400 students ranging from years 2-11 (ages 8 to 17). The main objective of the trip was to promote science to primary and secondary students in remote and regional areas. **July 2019**, \[[news article](https://edu.nl/96up6)\]
+- **2020 UNSW Science Work Experience Program**. I individually presented a mathematics workshop for high-school students to learn about mathematical and scientific research. **November 2019** \[[news article](https://edu.nl/4jcbn)\]
+- **Girls Do the Maths**. I assisted in several workshops for Girls Do the Maths events at the University of New South Wales in 2021 and 2023, presenting to years 10-12 female high school students, encouraging them to consider studying mathematics and statistics at university. **June 2021, 2023**, \[[2021 news article](https://edu.nl/rq9ac), [2023 news article](https://edu.nl/fhrpd)\]
+- **International Day of Mathematics Public Lecture**. I presented a public lecture at the International Day of Mathematics 2023 event at the University of New South Wales, Sydney. In my talk I discussed my life journey in mathematics, my approach to mathematics research, and gave an overview of some results obtained during my PhD candidature. The talk was aimed at a general (non-mathematical) audience including high-school students. **March 2023**, \[[news article](https://edu.nl/7b4xm), [youtube](https://www.youtube.com/watch?v=3-cw98lN3Cc)\]
