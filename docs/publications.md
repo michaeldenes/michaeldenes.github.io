@@ -2,7 +2,7 @@
 icon: lucide/book-open-text
 ---
 
-# Publications and Presentations
+# Publications, Presentations, and Outreach
 
 
 ## Peer-reviewed Journal Articles
@@ -22,10 +22,12 @@ icon: lucide/book-open-text
 
 - **NIOZ Colloquia**, Texel, the Netherlands, *Transport, mixing, and plastic entrainment by coherent ocean structures*, **January 2026**
 
-- **Parcels 10 year anniversary event**, Utrecht, the Netherlands, ``Make-your-own kernels'', (focussed on modelling techniques, parameter choices and implications for numerical simulations), **October 2025** \[[code](https://github.com/Parcels-code/10year-anniversary-session2)\]
+- **Parcels 10 year anniversary workshop**, Utrecht, the Netherlands, ``Make-your-own kernels'', (focussed on modelling techniques, parameter choices and implications for numerical simulations), **October 2025** \[[code](https://github.com/Parcels-code/10year-anniversary-session2)\]
 
 
 - **4DMED-Sea Workshop, ESA**, (External expert), European Space Agency Centre for Earth Observation, Frascati, Italy, *Using Parcels to develop and test beaching parameterisations*, **October 2024**
+
+- **DRAKKAR Ocean Modelling Workshop 2024**, (Workshop presenter), Grenoble, France, *Hands on the Parcels Lagrangian simulator*, **January 2024**
 
 - **Public Lecture - International Day of Mathematics**, University of New South Wales, Sydney, Australia, *From ocean waves to mesoscale eddies*, **March 2023** \[[news article](https://www.unsw.edu.au/science/our-schools/maths/news-events/events/from-waves-to-dimensionality), [youtube](https://www.youtube.com/watch?v=3-cw98lN3Cc)\]
 
@@ -37,6 +39,35 @@ icon: lucide/book-open-text
 
 - **Multidisciplinary Simulation, Estimation, and Assimilation Systems Seminar Series**, Ocean Science and Engineering, Massachusetts Institute of Technology, Boston, USA, *Transport and mixing by quasi-coherent ocean structures*, **October 2022**
 
-- **Applied Mathematics Plenary Talk**, School of Mathematics and Statistics Postgraduate Conference 2021, University of New South Wales, Sydney, Australia, *Persistence and Coherence: Tracking the evolution and decay of an Agulhas ring* (Virtual), **August 2021**
-
 - **Mathematical Postgraduate Seminar Series**, Mathematical Postgraduate Society, School of Mathematics and Statistics, University of Sydney, Sydney, Australia, *Lagrangian coherent structures in the ocean*, **May 2019**
+
+## Conferences and Workshops (Selected)
+
+- **Ocean Sciences Meeting 2026**, Glasgow, Scotland, (eLightning Presentation), *The Lofoten Basin Eddy as a Plastic Sink: A Three-Dimensional Study of Microplastic Dispersion Dynamics*, **February 2026**
+
+- **Euromech Colloquium 639 - Microplastic Dispersion Pathways**, (Speaker), Lerici, Italy, *PlasticParcels - a ready-to-use tool for plastic dispersion simulations and parameterization development*, **May 2024**
+
+- **Ocean Sciences Meeting 2024**, (Poster), New Orleans, USA, *PlasticParcels – A Ready-to-use Tool for Plastic Dispersion Modelling*, **February 2024**
+
+- **UU-NIOZ Early Career Scientist Symposium 2023**, (Poster), Zandvoort, the Netherlands, *The past (coherent structures) and the future (modelling plastic)*, **October 2023**
+
+- **58th Australian and New Zealand Industrial and Applied Mathematics (ANZIAM) Annual Conference**, (Speaker), Virtual, *Persistence and coherence of an Agulhas ring*, **February 2022**, \[[awarded the T.M. Cherry prize for best student presentation](https://www.anziam.org.au/The+TM+Cherry+Prize), [news article](https://www.unsw.edu.au/news/2022/02/michael-denes-tm-cherry-prize)\]
+
+- **School of Mathematics and Statistics Postgraduate Conference 2021, University of New South Wales**, (Plenary Speaker), Virtual, *Persistence and Coherence: Tracking the evolution and decay of an Agulhas ring*, **August 2021**, \[[winner best applied maths talk](https://www.unsw.edu.au/news/2021/08/eighth-annual-postgraduate-conference-is-hosted-online)\]
+
+- **57th Australian and New Zealand Industrial and Applied Mathematics (ANZIAM) Annual Conference**, (Speaker), Virtual, *Identifying coherent ocean features from swarms of virtual drifters*, **January 2021**, [honourable mention for the T.M. Cherry prize]
+
+- **64th Annual Meeting of the Australian Mathematical Society (Aust MS)**, (Speaker), Virtual, *Identifying coherent ocean features from swarms of virtual drifters*, **December 2020**
+
+- **Sydney Dynamics Group workshop: Dynamical Systems - Theory and Application**, (Poster), Jervis Bay, New South Wales, Australia, *Coherent ocean eddies*, **November 2020**
+
+- **School of Mathematics and Statistics Postgraduate Conference 2020, University of New South Wales**, (Speaker), Virtual, *Agulhas Rings: A relay race*, **August 2020**, \[[winner best applied maths talk](https://www.unsw.edu.au/news/2020/08/seventh-annual-postgraduate-conference-is-hosted-online)\]
+
+- **27th Australian Meteorological and Oceanographic Society Annual Meeting and International Conference on Indian Ocean Meteorology and Oceanography 2020**, (Poster), Fremantle, Western Australia, Australia, *Identification of coherent ocean features from swarms of virtual drifters*, **February 2020**, [Funded via an Early Career Researcher (ECR) grant]
+
+- **Sydney Dynamics Group workshop: Dynamical Systems - Theory and Application**, (Poster), Margaret River, Western Australia, Australia, *Identification of Lagrangian coherent structures from swarms of virtual drifters using finite element methods*, **November 2019**
+
+- **School of Mathematics and Statistics Postgraduate Conference 2019, University of New South Wales**, (Speaker), Sydney, New South Wales, Australia, *Identification of Lagrangian coherent structures from swarms of virtual drifters using finite element methods*, **August 2019**, \[[winner best applied maths talk](https://www.unsw.edu.au/news/2019/08/postgraduate-conference-spotlights-the-diverse-research-of-our-s)\]
+
+
+- **Frontiers of Fluid Dynamics workshop**, (Poster), Bureau of Meteorology, Sydney, New South Wales, Australia, *Identification of Lagrangian coherent structures from swarms of virtual drifters using finite element methods*, **December 2018**
