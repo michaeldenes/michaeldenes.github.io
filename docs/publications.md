@@ -72,7 +72,7 @@ icon: lucide/book-open-text
 
 - **Frontiers of Fluid Dynamics workshop**, (Poster), Bureau of Meteorology, Sydney, New South Wales, Australia, *Identification of Lagrangian coherent structures from swarms of virtual drifters using finite element methods*, **December 2018**
 
-## Science Outreach (Selected)
+## Science Outreach and Media (Selected)
 
 - **FryslanDOK - Omrop Fryslan**. I featured in an episode of a Frisian documentary series, highlighting our research on the physical oceanography of plastics in the Wadden Sea. **July 2025** \[[documentary](https://www.omropfryslan.nl/nl/tv/aflevering/fryslandok/1282017)\]
 
