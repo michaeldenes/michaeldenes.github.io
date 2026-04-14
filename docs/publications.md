@@ -74,7 +74,17 @@ icon: lucide/book-open-text
 
 ## Science Outreach (Selected)
 
-- **Mathematics Outreach in Regional NSW**. As a faculty of science student ambassador, I presented 19 workshops at Wellington Public School, Dubbo College Delroy Campus, and Coonabarabran High School, to over 400 students ranging from years 2-11 (ages 8 to 17). The main objective of the trip was to promote science to primary and secondary students in remote and regional areas. **July 2019**, \[[news article](https://edu.nl/96up6)\]
-- **2020 UNSW Science Work Experience Program**. I individually presented a mathematics workshop for high-school students to learn about mathematical and scientific research. **November 2019** \[[news article](https://edu.nl/4jcbn)\]
-- **Girls Do the Maths**. I assisted in several workshops for Girls Do the Maths events at the University of New South Wales in 2021 and 2023, presenting to years 10-12 female high school students, encouraging them to consider studying mathematics and statistics at university. **June 2021, 2023**, \[[2021 news article](https://edu.nl/rq9ac), [2023 news article](https://edu.nl/fhrpd)\]
+- **FryslanDOK - Omrop Fryslan**. I featured in an episode of a Frisian documentary series, highlighting our research on the physical oceanography of plastics in the Wadden Sea. **July 2025** \[[documentary](https://www.omropfryslan.nl/nl/tv/aflevering/fryslandok/1282017)\]
+
+
+- **Who is polluting the ocean? - The Economist**. I developed an animation for a documentary produced by *The Economist*, showing how marine plastic pollution is transported across the world's oceans. **October 2023** \[[documentary](https://www.youtube.com/watch?v=uRE_DndxwaA)\]
+
+- **Public Engagement Academy for Postdocs**. I was part of a pilot programme for postdocs in the Faculty of Science at Utrecht University, designed to develop their public engagement skills. Topics included: how to engage an audience, impact measurement, pitch and storytelling, engage children with your research, video and podcast training, popular science writing, blog writing training, dialogue training, and media training. **September 2023 to September 2024**
+
 - **International Day of Mathematics Public Lecture**. I presented a public lecture at the International Day of Mathematics 2023 event at the University of New South Wales, Sydney. In my talk I discussed my life journey in mathematics, my approach to mathematics research, and gave an overview of some results obtained during my PhD candidature. The talk was aimed at a general (non-mathematical) audience including high-school students. **March 2023**, \[[news article](https://edu.nl/7b4xm), [youtube](https://www.youtube.com/watch?v=3-cw98lN3Cc)\]
+
+- **Girls Do the Maths**. I assisted in several workshops for Girls Do the Maths events at the University of New South Wales in 2021 and 2023, presenting to years 10-12 female high school students, encouraging them to consider studying mathematics and statistics at university. **June 2021, 2023**, \[[2021 news article](https://edu.nl/rq9ac), [2023 news article](https://edu.nl/fhrpd)\]
+
+- **2020 UNSW Science Work Experience Program**. I individually presented a mathematics workshop for high-school students to learn about mathematical and scientific research. **November 2019** \[[news article](https://edu.nl/4jcbn)\]
+
+- **Mathematics Outreach in Regional NSW**. As a faculty of science student ambassador, I presented 19 workshops at Wellington Public School, Dubbo College Delroy Campus, and Coonabarabran High School, to over 400 students ranging from years 2-11 (ages 8 to 17). The main objective of the trip was to promote science to primary and secondary students in remote and regional areas. **July 2019**, \[[news article](https://edu.nl/96up6)\]
