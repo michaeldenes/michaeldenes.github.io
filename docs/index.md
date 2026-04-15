@@ -12,6 +12,8 @@ Hi, my name's Michael, and I'm an Australian native now living in Utrecht, the N
 ### Summary
 I'm currently a postdoc researcher at the Institute for Marine and Atmospheric Research in the Department of Physics at Utrecht University. I have a Ph.D. in applied mathematics with extensive experience in scientific research (applied mathematics, physical oceanography, and quantitative finance), and financial markets and banking analytics (trading, sales, and risk). I've worked on a range of problems from ocean transport and mixing to options pricing and risk.
 
+Before my PhD, I worked at the Commonwealth Bank of Australia and the CSIRO. At Commbank I worked as a data analyst doing product analytics, and as a data scientist creating visualisations and forecasting for financial markets trading and sales. At CSIRO I developed and backtested hedging strategies to validate the performance of a newly developed options pricing model.
+
 I'm skilled at numerical modelling, analysing complex multi-dimensional time-series datasets, and developing analytical, forecasting and data science tools using a range of tools (including Python, SQL, and Tableau). I'm also a developer and contributor to several open-source Python-based software and modelling packages.
 
 You can see more about my work history on [LinkedIn](https://www.linkedin.com/in/michael-denes/).
