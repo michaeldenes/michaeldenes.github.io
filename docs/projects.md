@@ -24,7 +24,7 @@ I've contributed to a few different software packages during my PhD and postdoc 
 ### PlasticParcels
 `plasticparcels` is a python package I've developed for simulating the transport and dispersion of plastics in the ocean. This tool simplifies the process of simulating plastic dispersion in the ocean. You can find more information on the [project website](https://plastic.parcels-code.org/en/latest/index.html) or on [GitHub](https://github.com/Parcels-code/plasticparcels). A manuscript detailing the first release of `plasticparcels`, v0.3.1, has been published in the [Journal of Open Source Software (JOSS)](https://doi.org/10.21105/joss.07094).
 
-Output from a simulation of the dispersion of surface microplastic concentrations in the Arctic Ocean from 2008 through 2022 is shown below. The vast majority of the microplastic pollution that enters the Arctic comes from the Atlantic, and the Transpolar Drift tends to act as a transport barrier against plastic entering the Beaufort gyre. This simulation was developed as part of the [NECCTON](https://neccton.eu/) project, you can interact with the dataset below (make sure to click on the arrow top left to remove the text!).
+Output from a simulation of the dispersion of surface microplastic concentrations in the Arctic Ocean from 2008 through 2022 is shown below. The vast majority of the microplastic pollution that enters the Arctic comes from the Atlantic, and the Transpolar Drift tends to act as a transport barrier against plastic entering the Beaufort gyre. This simulation was developed as part of the [NECCTON](https://neccton.eu/) project, you can interact with the dataset below.
 
 <iframe src="https://data.neccton.eu/-/d48inw6yjg" width="100%" height="450px"></iframe>
 
