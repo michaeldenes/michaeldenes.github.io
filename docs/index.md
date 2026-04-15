@@ -16,6 +16,8 @@ I'm skilled at numerical modelling, analysing complex multi-dimensional time-ser
 
 You can see more about my work history on [LinkedIn](https://www.linkedin.com/in/michael-denes/).
 
+You can find my [GitHub profile here](https://github.com/michaeldenes/).
+
 ### Education
 
 **Ph.D. in Applied Mathematics**<br>
