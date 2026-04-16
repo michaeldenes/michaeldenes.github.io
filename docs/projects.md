@@ -18,7 +18,7 @@ In the Dutch energy markets bidding zone, TenneT publishes the balance delta eve
 This project is in its early stages; you can follow the project on [GitHub here](https://github.com/michaeldenes/BalancePredict).
 
 
-## Academic Software Packages
+## Research Software Packages
 I've contributed to a few different software packages during my PhD and postdoc positions. Below are two packages I lead the development for.
 
 ### PlasticParcels
