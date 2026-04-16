@@ -14,7 +14,7 @@ I'm currently a postdoc researcher at the Institute for Marine and Atmospheric R
 
 Before my PhD, I worked at the Commonwealth Bank of Australia and the CSIRO. At Commbank I worked as a data analyst doing product analytics, and as a data scientist creating visualisations and forecasting for financial markets trading and sales. At CSIRO I developed and backtested hedging strategies to validate the performance of a newly developed options pricing model.
 
-I'm skilled at numerical modelling, analysing complex multi-dimensional time-series datasets, and developing analytical, forecasting and data science tools using a range of tools (including Python, SQL, and Tableau). I'm also a developer and contributor to several open-source Python-based software and modelling packages.
+I'm skilled at numerical modelling, analysing complex multi-dimensional time-series datasets, and developing analytical, forecasting and data science tools using a range of software packages (including Python, SQL, and Tableau). I'm also a developer and contributor to several open-source Python-based software and modelling packages.
 
 You can see more about my work history on [LinkedIn](https://www.linkedin.com/in/michael-denes/).
 
@@ -29,7 +29,7 @@ Advisors: A/Prof. Shane Keating and Prof. Gary Froyland <br>
 Thesis title: [*Transport and mixing by persistent and materially coherent ocean structures*](https://doi.org/10.26190/unsworks/24658)
 
 - My PhD concerned numerical methods, algorithms, and time-series analysis for identifying and tracking persistent and (quasi-)coherent objects in turbulent fluid flows, resulting in [2 peer-reviewed articles](https://edu.nl/38p7h), 6 awards for presentations, and a [FEM-based Python package](https://github.com/michaeldenes/FEMDLpy).
-- I presented invited seminars at MIT, NYU, NASA Jet Propulsion Laboratory, and UCLA.
+- I presented invited seminars at USYD, MIT, NYU, NASA Jet Propulsion Laboratory, and UCLA.
 - Over 4+ years I taught a range of mathematics, actuarial, and business analytics courses.
 
 **Bachelor of Science (Advanced Mathematics), First Class Honours**<br>
