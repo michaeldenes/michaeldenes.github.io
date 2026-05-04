@@ -50,7 +50,7 @@ Copyright &copy; 2026 Michael Denes
 # ]
 nav = [
     "index.md",
-    "projects.md",
+    "Projects.md",
     "publications.md",
     "hobbies.md"
 ]
