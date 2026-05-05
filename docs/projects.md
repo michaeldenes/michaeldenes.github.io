@@ -2,9 +2,7 @@
 icon: lucide/rocket
 redirect_from:
   - /Projects
-  - /Projects/
   - /PROJECTS
-  - /PROJECTS/
 ---
 
 # Projects
