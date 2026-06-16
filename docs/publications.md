@@ -18,12 +18,11 @@ On this page you can find a list of my peer-reviewed academic research articles,
 </ol>
 
 ## Invited Seminars (Selected)
- - **MOHID-Lagrangian Workshop**, Santiago de Compostela, Spain, *PlasticParcels – a ready-to-use tool for plastic dispersion simulations and parameterisation development*, **June 2026**
+ - **Models for Ocean Transport Workshop**, Santiago de Compostela, Spain, *Hands on PlasticParcels - a ready-to-use tool for plastic dispersion simulations and parameterisation development*, **June 2026** \[[slides](https://drive.google.com/file/d/1_AvtROB6i4hzBi_S3Q9N16ctZ3fiUJEV/view?usp=sharing)\]
 
 - **NIOZ Colloquia**, Texel, the Netherlands, *Transport, mixing, and plastic entrainment by coherent ocean structures*, **January 2026**
 
 - **Parcels 10 year anniversary workshop**, Utrecht, the Netherlands, *Make-your-own kernels*, (focussed on modelling techniques, parameter choices and implications for numerical simulations), **October 2025** \[[code](https://github.com/Parcels-code/10year-anniversary-session2), [video](https://surfdrive.surf.nl/index.php/s/tbRmcWjUqGuuM01)\]
-
 
 - **4DMED-Sea Workshop, ESA**, (External expert), European Space Agency Centre for Earth Observation, Frascati, Italy, *Using Parcels to develop and test beaching parameterisations*, **October 2024**
 
